@@ -1,9 +1,5 @@
 [
     {
-        "package": "rtweettree",
-        "url": "https://github.com/urswilke/rtweettree"
-    },
-    {
         "package": "ggbenjamini",
         "url": "https://github.com/urswilke/ggbenjamini"
     },
