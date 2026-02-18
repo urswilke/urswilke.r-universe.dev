@@ -9,10 +9,10 @@
     },
     {
 	"package": "datadaptor",
-	"url": "https://gitlab.com/urswilke/datadaptor"
+	"url": "https://codeberg.org/urswilke/datadaptor"
     },
     {
 	"package": "crosstabser",
-	"url": "https://gitlab.com/urswilke/crosstabser"
+	"url": "https://codeberg.org/urswilke/crosstabser"
     }
 ]
