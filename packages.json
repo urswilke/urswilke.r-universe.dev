@@ -4,15 +4,11 @@
         "url": "https://codeberg.org/urswilke/ggbenjamini"
     },
     {
-        "package": "pyramidi",
-        "url": "https://github.com/urswilke/pyramidi"
+		"package": "datadaptor",
+		"url": "https://codeberg.org/urswilke/datadaptor"
     },
     {
-	"package": "datadaptor",
-	"url": "https://codeberg.org/urswilke/datadaptor"
-    },
-    {
-	"package": "crosstabser",
-	"url": "https://codeberg.org/urswilke/crosstabser"
+		"package": "crosstabser",
+		"url": "https://codeberg.org/urswilke/crosstabser"
     }
 ]
